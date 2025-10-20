@@ -1,0 +1,218 @@
+Welcome to Janky, the least efficient way to study smart!
+:~Please enter the filename of the deck list ~:decks_small.txt
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 3 cards due
+Vocab -- 2 cards, 0 cards due
+
+:~Select a deck to display (enter the name) ~:Biology
+Biology              | Study of life                                                     | 2 days until review
+Biosphere            | Collection of all ecosystems on Earth                             | 1 days until review
+Cell                 | Smallest fundamental functional unit of living things             | 11 days until review
+Eukaryote            | An organism with cells that have nuclei                           | 2 days until review
+Homeostasis          | Maintenance of a balance internal state                           | 0 days until review
+Organ                | Structure of tissues joined together to perform common function   | 0 days until review
+Prokaryote           | A unicellular organism                                            | 1 days until review
+Tissue               | Group of cells carrying out similar functions                     | 0 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:R
+Biology -- 8 cards, 3 cards due
+Vocab -- 2 cards, 0 cards due
+
+:~Select a deck to review (enter the name) ~:Biology
+**Front**: Homeostasis
+
+:~Press enter to show the back of the card ~:
+**Back**: Maintenance of a balance internal state
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:2
+**Front**: Organ
+
+:~Press enter to show the back of the card ~:
+**Back**: Structure of tissues joined together to perform common function
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:1
+**Front**: Tissue
+
+:~Press enter to show the back of the card ~:
+**Back**: Group of cells carrying out similar functions
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:4
+
+Review complete!
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 0 cards due
+Vocab -- 2 cards, 0 cards due
+
+:~Select a deck to display (enter the name) ~:Biology
+Biology              | Study of life                                                     | 2 days until review
+Biosphere            | Collection of all ecosystems on Earth                             | 1 days until review
+Cell                 | Smallest fundamental functional unit of living things             | 11 days until review
+Eukaryote            | An organism with cells that have nuclei                           | 2 days until review
+Homeostasis          | Maintenance of a balance internal state                           | 1 days until review
+Organ                | Structure of tissues joined together to perform common function   | 2 days until review
+Prokaryote           | A unicellular organism                                            | 1 days until review
+Tissue               | Group of cells carrying out similar functions                     | 4 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:R
+Biology -- 8 cards, 0 cards due
+Vocab -- 2 cards, 0 cards due
+
+:~Select a deck to review (enter the name) ~:Vocab
+
+No cards to review!
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:N
+
+Dawn of a new day! Time to get some studying done.
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:R
+Biology -- 8 cards, 3 cards due
+Vocab -- 2 cards, 1 cards due
+
+:~Select a deck to review (enter the name) ~:Biology
+**Front**: Biosphere
+
+:~Press enter to show the back of the card ~:
+**Back**: Collection of all ecosystems on Earth
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:asdf
+Invalid response. Try again.
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:7
+Invalid response. Try again.
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:4
+**Front**: Homeostasis
+
+:~Press enter to show the back of the card ~:
+**Back**: Maintenance of a balance internal state
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:1
+**Front**: Prokaryote
+
+:~Press enter to show the back of the card ~:
+**Back**: A unicellular organism
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:1
+
+Review complete!
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 0 cards due
+Vocab -- 2 cards, 1 cards due
+
+:~Select a deck to display (enter the name) ~:Biology
+Biology              | Study of life                                                     | 1 days until review
+Biosphere            | Collection of all ecosystems on Earth                             | 4 days until review
+Cell                 | Smallest fundamental functional unit of living things             | 10 days until review
+Eukaryote            | An organism with cells that have nuclei                           | 1 days until review
+Homeostasis          | Maintenance of a balance internal state                           | 2 days until review
+Organ                | Structure of tissues joined together to perform common function   | 1 days until review
+Prokaryote           | A unicellular organism                                            | 2 days until review
+Tissue               | Group of cells carrying out similar functions                     | 3 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:R
+Biology -- 8 cards, 0 cards due
+Vocab -- 2 cards, 1 cards due
+
+:~Select a deck to review (enter the name) ~:Vocab
+**Front**: Candor
+
+:~Press enter to show the back of the card ~:
+**Back**: The quality of being honest and straightforward
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:3
+
+Review complete!
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 0 cards due
+Vocab -- 2 cards, 0 cards due
+
+:~Select a deck to display (enter the name) ~:Vocab
+Candor               | The quality of being honest and straightforward                   | 1 days until review
+Insular              | Narrowly restricted in outlook or scope                           | 1 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:X

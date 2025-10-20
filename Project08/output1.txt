@@ -1,0 +1,235 @@
+Welcome to Janky, the least efficient way to study smart!
+:~Please enter the filename of the deck list ~:decks.txt
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:C
+
+:~Enter a name for the new deck (only alphanumeric characters and _'s) ~:US - Capitals
+Invalid deck name: contains invalid characters.
+
+:~Enter a name for the new deck (only alphanumeric characters and _'s) ~:US_Capitals
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:A
+Biology -- 8 cards, 3 cards due
+Econ -- 5 cards, 2 cards due
+Elements -- 8 cards, 2 cards due
+Psychology -- 5 cards, 1 cards due
+US_Capitals -- 0 cards, 0 cards due
+
+:~Select a deck to add (enter the name) ~:US_Capitals
+:~Enter the text for the front side of the card ~:Michigan
+:~Enter the text for the back side of the card ~:Lansing
+:~Do you want to add more cards? (Y/N) ~:Y
+:~Enter the text for the front side of the card ~:Texas
+:~Enter the text for the back side of the card ~:Austin
+:~Do you want to add more cards? (Y/N) ~:Y
+:~Enter the text for the front side of the card ~:New York
+:~Enter the text for the back side of the card ~:Albany
+:~Do you want to add more cards? (Y/N) ~:y
+:~Enter the text for the front side of the card ~:California
+:~Enter the text for the back side of the card ~:Sacramento
+:~Do you want to add more cards? (Y/N) ~:n
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:R
+Biology -- 8 cards, 3 cards due
+Econ -- 5 cards, 2 cards due
+Elements -- 8 cards, 2 cards due
+Psychology -- 5 cards, 1 cards due
+US_Capitals -- 4 cards, 4 cards due
+
+:~Select a deck to review (enter the name) ~:capitals
+Invalid choice: deck not found.
+
+:~Select a deck to review (enter the name) ~:US_Capitals
+**Front**: California
+
+:~Press enter to show the back of the card ~:
+**Back**: Sacramento
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:2
+**Front**: Michigan
+
+:~Press enter to show the back of the card ~:
+**Back**: Lansing
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:4
+**Front**: New York
+
+:~Press enter to show the back of the card ~:
+**Back**: Albany
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:3
+**Front**: Texas
+
+:~Press enter to show the back of the card ~:
+**Back**: Austin
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:4
+
+Review complete!
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:J
+Invalid option. Please try again.
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 3 cards due
+Econ -- 5 cards, 2 cards due
+Elements -- 8 cards, 2 cards due
+Psychology -- 5 cards, 1 cards due
+US_Capitals -- 4 cards, 0 cards due
+
+:~Select a deck to display (enter the name) ~:US_Capitals
+California           | Sacramento                                                        | 1 days until review
+Michigan             | Lansing                                                           | 4 days until review
+New York             | Albany                                                            | 1 days until review
+Texas                | Austin                                                            | 4 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:N
+
+Dawn of a new day! Time to get some studying done.
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 5 cards due
+Econ -- 5 cards, 3 cards due
+Elements -- 8 cards, 4 cards due
+Psychology -- 5 cards, 2 cards due
+US_Capitals -- 4 cards, 2 cards due
+
+:~Select a deck to display (enter the name) ~:US_Capitals
+California           | Sacramento                                                        | 0 days until review
+Michigan             | Lansing                                                           | 3 days until review
+New York             | Albany                                                            | 0 days until review
+Texas                | Austin                                                            | 3 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:R
+Biology -- 8 cards, 5 cards due
+Econ -- 5 cards, 3 cards due
+Elements -- 8 cards, 4 cards due
+Psychology -- 5 cards, 2 cards due
+US_Capitals -- 4 cards, 2 cards due
+
+:~Select a deck to review (enter the name) ~:Elements
+**Front**: Fluorine
+
+:~Press enter to show the back of the card ~:
+**Back**: F
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:1
+**Front**: Gold
+
+:~Press enter to show the back of the card ~:
+**Back**: Au
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:3
+**Front**: Potassium
+
+:~Press enter to show the back of the card ~:
+**Back**: K
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:2
+**Front**: Silver
+
+:~Press enter to show the back of the card ~:
+**Back**: Ag
+
+:~Grade yourself (1 = Correct, 2 = Incorrect, 3 = Hard, 4 = Easy) ~:1
+
+Review complete!
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:D
+Biology -- 8 cards, 5 cards due
+Econ -- 5 cards, 3 cards due
+Elements -- 8 cards, 0 cards due
+Psychology -- 5 cards, 2 cards due
+US_Capitals -- 4 cards, 2 cards due
+
+:~Select a deck to display (enter the name) ~:Elements
+Chlorine             | Cl                                                                | 1 days until review
+Fluorine             | F                                                                 | 2 days until review
+Gold                 | Au                                                                | 1 days until review
+Helium               | He                                                                | 2 days until review
+Hydrogen             | H                                                                 | 2 days until review
+Magnesium            | Mg                                                                | 1 days until review
+Potassium            | K                                                                 | 1 days until review
+Silver               | Ag                                                                | 2 days until review
+
+Please choose one of the options below:
+    D -- Display all cards in a deck
+    R -- Review a deck
+    A -- Add cards to a deck
+    C -- Create new deck
+    N -- Advance to next day
+    X -- Exit
+    
+:~Enter option ~:X
