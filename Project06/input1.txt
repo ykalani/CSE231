@@ -1,0 +1,14 @@
+speciesid.txt
+expenses.txt
+3
+saginaw
+detroit
+saintlouis
+1
+2
+3
+Saintlouis
+Tiger
+Sharikhan
+4
+X

@@ -1,0 +1,32 @@
+Species ID,Name,Age,Sex,Health,Years at Zoo,Favorite Game,Favorite Food,Personality
+1,Macaroon,17,female,sick,16,video,lean meat,courageous
+1,Eclair,3,male,sick,3,fake hunting,rodents,courageous
+1,Egg,20,male,healthy,18,platforms,red meat,independent
+2,Cake,20,female,healthy,20,platforms,grain,curious
+2,Madeleine,2,male,healthy,2,puzzles,fruit,curious
+2,Brownie,6,female,healthy,6,swings,red meat,needy
+3,Pie,29,male,sick,29,platforms,lean meat,needy
+3,Pudding,10,male,sick,9,puzzles,berry,curious
+3,Tiramisu,18,female,sick,18,swim,red meat,courageous
+4,Dumpling,26,male,sick,1,platforms,red meat,curious
+4,CheeseCake,24,female,,24,puzzles,rodents,calm
+4,PannaCotta,9,female,healthy,1,fake hunting,rodents,independent
+5,Custard,0,male,healthy,0,handfeeding,rodents,shy
+5,Truffle,24,male,healthy,16,swings,rodents,calm
+5,Doughnut,18,male,sick,50,platforms,berry,red
+6,Cupcake,14,male,sick,4,swim,lean meat,independent
+6,Poptart,18,male,healthy,11,swings,fruit,shy
+6,Cannoli,23,male,sick,21,fake hunting,insects,calm
+7,Tart,17,female,healthy,3,swings,grain,needy
+2,Volt,3,male,sick,3,fake hunting,rodents,courageous
+7,Cobbler,8,male,healthy,4,swim,grain,aggressive
+7,IceCream,1,female,healthy,5,platforms,rodents,calm
+8,Cookie,20,female,sick,4,swim,red meat,
+8,Bar,6,male,sick,6,hiding,vegetables,shy
+8,Blondie,13,female,sick,1,swings,vegetables,calm
+9,DulceDeLeche,16,male,healthy,7,handfeeding,berry,needy
+9,Mousse,11,male,sick,4,hiding,vegetables,aggressive
+9,Funfetti,0,male,sick,0,fake hunting,grain,independent
+10,Bread,9,female,sick,9,hiding,fish meat,calm
+10,Crepe,6,male,sick,6,swings,grain,independent
+10,Creme Brulee,-1,male,healthy,21,puzzles,rodents,shy

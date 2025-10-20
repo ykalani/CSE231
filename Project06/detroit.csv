@@ -1,0 +1,31 @@
+Species Id,Name,Age,Sex,Health,Years at Zoo,Favorite Game,Favorite Food,Personality
+2,Sautee,28,male,healthy,28,handfeeding,rodents,aggressive
+2,Spahgetti,12,male,sick,12,puzzles,rodents,independent
+2,Pizza,12,female,sick,12,fake hunting,vegetables,calm
+3,Chicken,0,female,sick,0,handfeeding,lean meat,needy
+3,SpringRoll,10,male,healthy,10,swings,insects,needy
+3,ChickenSoup,0,male,sick,0,platforms,insects,calm
+4,FriedRice,27,male,healthy,8,fake hunting,red meat,needy
+4,PotPie,29,male,sick,28,hiding,grain,courageous
+4,MeatPie,28,female,sick,19,swim,insects,calm
+5,Dumpling,29,female,sick,6,hiding,berry,needy
+5,Piehrogi,30,female,sick,10,hiding,vegetables,calm
+5,Quiche,21,male,healthy,19,hiding,berry,shy
+6,Croissant,1,male,healthy,1,platforms,rodents,shy
+6,Baguette,22,female,healthy,6,hiding,fruit,curious
+6,Salmon,29,male,healthy,25,puzzles,lean meat,calm
+7,Lasagne,20,female,sick,15,handfeeding,fish meat,curious
+7,Salad,20,female,sick,15,platforms,insects,calm
+7,Sausage,20,female,healthy,18,handfeeding,red meat,needy
+8,Stir-Fry,28,male,sick,15,puzzles,grain,shy
+8,Taco,15,female,healthy,2,puzzles,fruit,needy
+8,Sandwich,26,female,healthy,9,swings,berry,curious
+9,Hamburger,25,female,sick,2,platforms,red meat,curious
+9,Minestrone,22,male,healthy,4,puzzles,berry,aggressive
+9,Curry,0,female,sick,0,fake hunting,fruit,independent
+10,Shwarma,24,female,sick,8,swim,fruit,independent
+10,Enchillada,29,female,healthy,4,handfeeding,fruit,aggressive
+10,Quesadia,27,male,sick,8,hiding,grain,aggressive
+11,CornFritter,0,male,sick,0,fake hunting,insects,curious
+11,PadThai,5,male,healthy,5,platforms,insects,calm
+11,Paella,25,female,healthy,25,puzzles,grain,curious

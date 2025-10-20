@@ -1,0 +1,95 @@
+Species ID,Name,Age,Sex,Health,Years at Zoo,Favorite Game,Favorite Food,Personality
+32,Acrion,4,female,healthy,2,hiding,red meat,needy
+57,Adrastus,16,female,healthy,9,swings,insects,independent
+23,Aedisia,21,male,sick,24,puzzles,fruit,calm
+58,Aeneas,23,female,sick,22,swings,vegetables,independent
+6,Basilides,3,female,sick,17,puzzles,red meat,calm
+53,Batis,22,female,sick,23,fake hunting,fruit,shy
+2,Boethus,6,female,healthy,15,swim,fish meat,courageous
+3,Brontinus,27,male,healthy,17,handfeeding,rodents,shy
+2,Bolus,0,male,healthy,0,puzzles,grain,curious
+6,Callicles,0,female,sick,0,fake hunting,fish meat,curious
+25,Cebes,10,male,sick,4,swim,lean meat,needy
+22,Celsus,23,male,sick,14,platforms,red meat,aggressive
+59,Cercidas,24,female,healthy,15,hiding,red meat,courageous
+19,Cercops,15,male,healthy,15,hiding,lean meat,shy
+46,Chaerephon,22,female,healthy,19,handfeeding,insects,curious
+38,Damascius,7,male,sick,10,platforms,lean meat,independent
+53,Demetrius,9,male,sick,21,swim,rodents,shy
+26,Damo,11,female,healthy,3,swim,lean meat,shy
+2,Dio,14,male,healthy,17,fake hunting,lean meat,calm
+27,Dexippus,28,male,sick,18,hiding,vegetables,needy
+34,Diogenes,15,female,healthy,7,hiding,fruit,calm
+11,Echecrates,25,female,sick,1,puzzles,fruit,curious
+12,Eudoxus,19,female,healthy,5,hiding,insects,courageous
+46,Euclid,28,male,healthy,27,platforms,rodents,needy
+36,Eurytus,22,female,healthy,10,swings,berry,aggressive
+39,Evander,5,male,healthy,16,platforms,insects,needy
+57,Geminus,22,female,healthy,11,hiding,vegetables,aggressive
+33,Gaius,13,male,sick,12,swings,red meat,curious
+51,Gorgias,22,female,healthy,28,platforms,rodents,calm
+39,Favorinus,21,female,sick,11,puzzles,grain,shy
+44,Hagnon,4,female,healthy,4,handfeeding,insects,shy
+21,Heraclides,5,male,sick,15,fake hunting,berry,needy
+61,Hegesias,24,female,sick,6,hiding,fish meat,needy
+62,Hermias,17,male,sick,12,hiding,grain,aggressive
+17,Hicetas,12,male,healthy,6,fake hunting,rodents,curious
+11,Hieronymos,1,male,healthy,1,fake hunting,berry,calm
+42,Horus,1,male,sick,1,puzzles,rodents,needy
+21,Hypatia,17,female,sick,3,platforms,berry,courageous
+57,Ion,10,male,healthy,22,platforms,rodents,curious
+48,Iamblichus,4,female,healthy,4,platforms,berry,aggressive
+22,Icthyas,14,female,sick,19,fake hunting,red meat,courageous
+45,Isidore,14,female,healthy,13,swim,fruit,aggressive
+27,Idomeneus,26,male,sick,6,swim,fish meat,independent
+9,Jason,19,male,healthy,4,hiding,vegetables,independent
+5,Lyco,6,male,healthy,13,puzzles,berry,needy
+15,Leontion,16,female,healthy,26,swings,berry,courageous
+42,Lysis,22,female,sick,7,swim,vegetables,curious
+60,Lacydes,24,male,sick,24,platforms,vegetables,curious
+24,Leonteus,9,female,sick,9,fake hunting,berry,courageous
+27,Marinus,17,male,sick,17,hiding,insects,independent
+22,Metrocles,10,male,healthy,10,platforms,insects,independent
+47,Melissus,23,female,sick,23,hiding,insects,curious
+32,Monimus,27,female,sick,10,handfeeding,rodents,aggressive
+14,Maximus,27,male,sick,27,puzzles,berry,aggressive
+38,Myia,4,male,sick,16,platforms,red meat,independent
+57,Nausiphanes,28,female,sick,21,hiding,insects,aggressive
+37,Nicarete,4,female,healthy,4,hiding,rodents,aggressive
+55,Nicolaus,0,female,sick,0,swings,rodents,needy
+46,Nicomachus,4,female,healthy,4,puzzles,fish meat,independent
+10,Numenias,8,male,sick,8,platforms,berry,needy
+32,Nymphidianus,0,female,healthy,0,puzzles,fruit,aggressive
+55,Ocellus,0,female,healthy,4,swim,fish meat,independent
+28,Onatas,2,female,healthy,2,handfeeding,lean meat,needy
+62,Origen,7,female,healthy,7,fake hunting,berry,independent
+37,Oenomaus,19,female,healthy,10,fake hunting,fish meat,courageous
+8,Olympiodorus,19,female,sick,4,puzzles,red meat,curious
+46,Panaetius,0,male,healthy,0,swings,insects,aggressive
+26,Pasicles,1,female,sick,1,hiding,vegetables,curious
+37,Peregrinus,19,female,sick,11,handfeeding,red meat,needy
+61,Patro,10,female,sick,13,puzzles,rodents,courageous
+5,Persaeus,1,female,healthy,1,hiding,red meat,calm
+13,Philo,29,male,healthy,14,fake hunting,fish meat,calm
+62,Sallustius,22,male,sick,7,hiding,fruit,courageous
+43,Socrates,15,male,sick,4,fake hunting,rodents,courageous
+41,Satyrus,15,female,healthy,15,swings,grain,shy
+17,Simmias,2,male,healthy,2,fake hunting,insects,courageous
+50,Sosipatra,29,male,healthy,27,platforms,rodents,calm
+11,Sphaerus,5,male,healthy,5,handfeeding,grain,curious
+8,Strato,27,female,sick,21,handfeeding,insects,curious
+52,Telauges,3,female,sick,9,handfeeding,vegetables,independent
+41,Thales,14,male,healthy,2,swings,lean meat,needy
+37,Timaeus,13,female,healthy,13,swim,grain,courageous
+36,Theano,17,male,healthy,6,puzzles,lean meat,curious
+63,Timycha,18,male,sick,17,platforms,lean meat,shy
+45,Tisisas,22,female,healthy,1,hiding,vegetables,shy
+7,Xenarchus,26,male,sick,11,swings,lean meat,needy
+7,Xeniades,19,female,healthy,-1,puzzles,lean meat,calm
+55,Xenophon,6,female,sick,100,platforms,rodents,shy
+8,Xenocrates,6,male,sick,6,puzzles,vegetables,independent
+49,Xenophilius,28,male,healthy,1,platforms,fruit,courageous
+36,Zenobius,18,male,healthy,3,swim,fish meat,courageous
+47,Zeno,3,male,healthy,2,swim,fish meat,independent
+50,Zenodotus,10,female,healthy,10,fake hunting,berry,curious
+5,Vase,25,female,healthy,25,puzzles,grain,curious
