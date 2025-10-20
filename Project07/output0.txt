@@ -1,0 +1,230 @@
+🌟🌟🌟 Welcome to the *Ultimate UNO Showdown*! 🌟🌟🌟
+
+    💥 Prepare yourself for a thrilling, card-flipping adventure
+    where alliances waver, strategies unfold, and only the
+    sharpest tactician will claim the ultimate victory! 💥
+
+    💥 Will you reverse the tide, skip ahead of your rivals,
+    or drop that Wild Draw Four at the perfect moment to leave
+    them in disarray? Let the games begin! 💥
+
+
+:~Do you want to play a game of UNO? (yes/no) ~:yes
+
+:~Enter number of players (2-5) ~:seven
+Please enter a number between 2 and 5.
+
+:~Enter number of players (2-5) ~:7
+Please enter a number between 2 and 5.
+
+:~Enter number of players (2-5) ~:4
+
+Player #1's turn. Current card: Green 8
+	Your hand: [Red 9, Blue 3, Wild - +4, Yellow Skip, Red Reverse]
+	Playable cards: [Wild - +4]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Wild +4
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:Draw
+	Invalid card choice. Please choose a valid card from your hand.
+	Playable cards: [Wild - +4]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Wild
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:+4
+	:~Choose a new color (Red, Green, Blue, Yellow) ~:Red
+	Color Changed to Red!
+	Player #2 draws four cards!
+
+Game state:
+Player #1 - 4 cards
+Player #2 - 9 cards
+Player #3 - 5 cards
+Player #4 - 5 cards
+
+Player #3's turn. Current card: Wild - +4
+	Your hand: [Blue 6, Red 7, Blue 8, Yellow 9, Red 5]
+	Playable cards: [Red 7, Red 5]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Red
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:7
+
+Game state:
+Player #1 - 4 cards
+Player #2 - 9 cards
+Player #3 - 4 cards
+Player #4 - 5 cards
+
+Player #4's turn. Current card: Red 7
+	Your hand: [Wild - +4, Green 3, Red 3, Yellow 2, Green 0]
+	Playable cards: [Wild - +4, Red 3]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Red
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:3
+
+Game state:
+Player #1 - 4 cards
+Player #2 - 9 cards
+Player #3 - 4 cards
+Player #4 - 4 cards
+
+Player #1's turn. Current card: Red 3
+	Your hand: [Red 9, Blue 3, Yellow Skip, Red Reverse]
+	Playable cards: [Red 9, Blue 3, Red Reverse]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Red
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:Reverse
+	Direction reversed!
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 9 cards
+Player #3 - 4 cards
+Player #4 - 4 cards
+
+Player #4's turn. Current card: Red Reverse
+	Your hand: [Wild - +4, Green 3, Yellow 2, Green 0]
+	Playable cards: [Wild - +4]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Wild
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:+4
+	:~Choose a new color (Red, Green, Blue, Yellow) ~:Green
+	Color Changed to Green!
+	Player #3 draws four cards!
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 9 cards
+Player #3 - 8 cards
+Player #4 - 3 cards
+
+Player #2's turn. Current card: Wild - +4
+	Your hand: [Yellow 6, Green +2, Yellow 7, Green 9, Blue 1, Green 1, Green 6, Yellow 1, Wild - Color Change]
+	Playable cards: [Green +2, Green 9, Green 1, Green 6, Wild - Color Change]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Green
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:1
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 8 cards
+Player #3 - 8 cards
+Player #4 - 3 cards
+
+Player #1's turn. Current card: Green 1
+	Your hand: [Red 9, Blue 3, Yellow Skip]
+	No playable cards. Drawing a card.
+
+Game state:
+Player #1 - 4 cards
+Player #2 - 8 cards
+Player #3 - 8 cards
+Player #4 - 3 cards
+
+Player #4's turn. Current card: Green 1
+	Your hand: [Green 3, Yellow 2, Green 0]
+	Playable cards: [Green 3, Green 0]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Green
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:3
+
+Game state:
+Player #1 - 4 cards
+Player #2 - 8 cards
+Player #3 - 8 cards
+Player #4 - 2 cards
+
+Player #3's turn. Current card: Green 3
+	Your hand: [Blue 6, Blue 8, Yellow 9, Red 5, Wild - +4, Red +2, Yellow +2, Green Skip]
+	Playable cards: [Wild - +4, Green Skip]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Green
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:Skip
+	Player #2 is skipped!
+
+Game state:
+Player #1 - 4 cards
+Player #2 - 8 cards
+Player #3 - 7 cards
+Player #4 - 2 cards
+
+Player #1's turn. Current card: Green Skip
+	Your hand: [Red 9, Blue 3, Yellow Skip, Green 7]
+	Playable cards: [Yellow Skip, Green 7]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Green
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:7
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 8 cards
+Player #3 - 7 cards
+Player #4 - 2 cards
+
+Player #4's turn. Current card: Green 7
+	Your hand: [Yellow 2, Green 0]
+	Playable cards: [Green 0]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Green
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:0
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 8 cards
+Player #3 - 7 cards
+Player #4 - 1 cards
+
+Player #3's turn. Current card: Green 0
+	Your hand: [Blue 6, Blue 8, Yellow 9, Red 5, Wild - +4, Red +2, Yellow +2]
+	Playable cards: [Wild - +4]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Blue
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:6
+	Invalid card choice. Please choose a valid card from your hand.
+	Playable cards: [Wild - +4]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Wild
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:+4
+	:~Choose a new color (Red, Green, Blue, Yellow) ~:Yellow
+	Color Changed to Yellow!
+	Player #2 draws four cards!
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 12 cards
+Player #3 - 6 cards
+Player #4 - 1 cards
+
+Player #1's turn. Current card: Wild - +4
+	Your hand: [Red 9, Blue 3, Yellow Skip]
+	Playable cards: [Yellow Skip]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Yellow
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:Skip
+	Player #4 is skipped!
+
+Game state:
+Player #1 - 2 cards
+Player #2 - 12 cards
+Player #3 - 6 cards
+Player #4 - 1 cards
+
+Player #3's turn. Current card: Yellow Skip
+	Your hand: [Blue 6, Blue 8, Yellow 9, Red 5, Red +2, Yellow +2]
+	Playable cards: [Yellow 9, Yellow +2]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Yellow
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:+2
+	Player #2 draws two cards!
+
+Game state:
+Player #1 - 2 cards
+Player #2 - 14 cards
+Player #3 - 5 cards
+Player #4 - 1 cards
+
+Player #1's turn. Current card: Yellow +2
+	Your hand: [Red 9, Blue 3]
+	No playable cards. Drawing a card.
+
+Game state:
+Player #1 - 3 cards
+Player #2 - 14 cards
+Player #3 - 5 cards
+Player #4 - 1 cards
+
+Player #4's turn. Current card: Yellow +2
+	Your hand: [Yellow 2]
+	Playable cards: [Yellow 2]
+	:~Choose a card color (Red, Green, Blue, Yellow, or Wild) ~:Yellow
+	:~Choose a card value (0-9, Skip, Reverse, +2, Color Change, +4) ~:2
+
+-----Player #4 has won the round-----
+
+:~Do you want to play another round? (yes/no) ~:no
+Thanks for playing!
+Go Green!! Go White!!
+
